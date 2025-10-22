@@ -8,5 +8,4 @@ assignees: ''
 ---
 
 ### Epic Description:
-
-    * [description text]
+  - [description text]
