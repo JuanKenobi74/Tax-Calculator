@@ -7,6 +7,6 @@ assignees: ''
 
 ---
 
-###Epic Description:
+### Epic Description:
 
-    *[description text]
+    * [description text]
